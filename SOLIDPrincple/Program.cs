@@ -18,8 +18,7 @@ namespace SOLIDPrincple
             Bird obj = new Bird();
             obj.Fly();
             OstrichBird bi = new OstrichBird();
-            bi.Flying();
-            Katbutar bi1 = new Katbutar();
+         
             bi1.Fly();
             Console.WriteLine("");
         }

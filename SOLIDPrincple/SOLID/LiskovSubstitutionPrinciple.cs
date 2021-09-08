@@ -20,9 +20,9 @@ namespace SOLIDPrincple.SOLID
         }
     }
 
-    public class Katbutar: FlyingBird
+    public class Eagle: FlyingBird
     {
-        public  Katbutar()
+        public Eagle()
         {
             this.Fly();
         }
